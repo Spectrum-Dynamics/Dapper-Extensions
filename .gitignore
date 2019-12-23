@@ -16,3 +16,4 @@ StyleCop.*
 # Nuget
 packages
 .vs
+/DapperExtensions.StrongName/DapperExtensions.StrongName.1.6.4.nupkg
